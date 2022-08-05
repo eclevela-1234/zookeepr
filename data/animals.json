@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Smelly Rump",
+      "species": "Butt Bat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "stinky"
+      ],
+      "id": "11"
     }
   ]
 }
