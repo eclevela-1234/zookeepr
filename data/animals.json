@@ -117,6 +117,16 @@
         "stinky"
       ],
       "id": "11"
+    },
+    {
+      "name": "Buck Buck Doe",
+      "species": "Moose",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
