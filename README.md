@@ -4,6 +4,8 @@
 
 **This is a full-stack application that organizes data for a small zoo. Data structure is fairly simply - uses native file system modules to store and retrieve animal and zookeeper bio data in json format over express middleware. This app uses primarily JS, Node, express and Heroku.**
 
+![screenshot](./images/screenshot.png)
+
 ## Table of Contents
 
 
