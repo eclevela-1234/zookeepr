@@ -2,7 +2,7 @@
 # zookeeper
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**This is a full-stack application that organizes data for a small zoo. Data structure is fairly simply - uses native file system modules to store and retrieve animal and zookeeper bio data in json format over express middleware. This app uses primarily JS, Node, express and Heroku. **
+**This is a full-stack application that organizes data for a small zoo. Data structure is fairly simply - uses native file system modules to store and retrieve animal and zookeeper bio data in json format over express middleware. This app uses primarily JS, Node, express and Heroku.**
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To install the app locally, simply clone the repository and run <npm i> in your 
 Once installed, or if visiting the deployed page, feel free to explore the user friendly dashboard. There are a few cool functions like the ability to filter animals by diet or personality type and insimilar ways for the zookeepers.
 ## Contribution Guidelines
 
-This app was part of a Boot Camp curriculum
+Any one interest in contributing should rach out to the developer eclevela-1234.
 ## Collaboration Credits
 
 This app was part of a Boot Camp curriculum
